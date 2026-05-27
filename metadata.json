@@ -1,0 +1,10 @@
+{
+  "name": "CineVerse",
+  "description": "An immersive, premium full-stack OTT streaming web application with cinematic 4K aesthetic, custom video player engines, anime dub/sub toggles, dynamic IMDB streaming, and Gemini-powered smart context recommendations.",
+  "requestFramePermissions": [
+    "fullscreen"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
